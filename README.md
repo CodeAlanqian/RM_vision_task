@@ -22,13 +22,13 @@ RMUA是全自动机器人对抗比赛。其中最为重要的一环就是对对�
 
 - 基于Ubuntu20.04环境，使用ROS2平台与OpenCV4进行开发
 
-- vision task.tar里面的内容是视频素材，把文件放进虚拟机之后，需要用Linux命令进行解压，然后要用到ROS2 里面的`rosbag play`命令进行播放 
+- vision task.tar里面的内容是视频素材，解压后使用ROS2 里面的`rosbag play`命令进行播放 
 
 ## **提交内容**
 
 - Git完整代码文件夹到GitHub
 
-- 上传视频演示文件到群文件
+- 上传视频演示文件到群文件（飞书）
 
  
 
